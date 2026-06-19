@@ -37,6 +37,9 @@ http://stream.cammonitorplus.net/1833/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png",FS1
 https://viznf.gdgdfhbdfidsf.xyz/1781500931/7da594d07c874d2d95a7264d1543e107/Mac9gZbK76ydJMGhbuPNo-zdE3d9DASZxF4PeuB2wXI/fox-sports-1-4k.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",NBC
+http://stream.cammonitorplus.net/1812/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/1280px-NickMusic_Purple.svg.png" group-title="Kids",NickMusic
 http://104.129.12.146:18080/stream/nickmusic.ts
 
