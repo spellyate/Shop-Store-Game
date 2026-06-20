@@ -46,3 +46,5 @@ http://104.129.12.146:18080/stream/nickmusic.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/960px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Kids",TeenNick
 http://acces4k.info:8089/live/5464312081293/5464312081293/85691034.ts
 
+#EXTINF:-1 tvg-logo="https://assets.logos.corusent.com/wp-content/uploads/2018/08/13140426/YTV_Web_LOGO_Teal_RGB.png" group-title="Kids",YTV
+http://38.22.17.91:14584/
