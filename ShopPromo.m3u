@@ -4,17 +4,20 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1280px-Nickelodeon_2023_logo_%28outline%29.svg.png" group-title="Kids",Nickelodeon
 http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
-http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/NickMusic_Purple.svg/1280px-NickMusic_Purple.svg.png" group-title="Kids",NickMusic
 http://104.129.12.146:18080/stream/nickmusic.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/960px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Kids",TeenNick
 http://acces4k.info:8089/live/5464312081293/5464312081293/85691034.ts
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1280px-Nicktoons_Logo_2023.svg.png" group-title="Kids",NickToons
+http://customcloud.tv/live/HoseaStephen/4273869501/203.m3u8
+
 #EXTINF:-1 tvg-logo="https://assets.logos.corusent.com/wp-content/uploads/2018/08/13140426/YTV_Web_LOGO_Teal_RGB.png" group-title="Kids",YTV
 http://38.22.17.91:14584/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -43,7 +46,7 @@ http://stream.cammonitorplus.net/1797/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX Austin
 http://stream.cammonitorplus.net/1833/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",AMC
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://50.7.120.34:8080/AMC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png",FS1
