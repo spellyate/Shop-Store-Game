@@ -61,5 +61,5 @@ http://161.129.178.5/food/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",Vice
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
-http://46.149.191.219:9100/play/a00e
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN2
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb59c/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNTljOjE3ODI1MjcxNjc3OTg6Y2RubGl2ZXR2LnR2OmQ2NGVkN2JmMjZkODBkY2YuNWE5NThiNjFlNTI2YThhMDk2OGNmNDBmOTQ1MzViZWMxZWJiNWE5MmVjOWQ0NmE4ZmMxYzI2OTU4NWUzNGNlNg
