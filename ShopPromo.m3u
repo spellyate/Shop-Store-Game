@@ -8,7 +8,7 @@ http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
 http://104.129.12.146:18080/stream/nickmusic.ts
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/TeenNick_logo_2023_%28outline%29.svg/960px-TeenNick_logo_2023_%28outline%29.svg.png" group-title="Kids",TeenNick
-http://acces4k.info:8089/live/5464312081293/5464312081293/85691034.ts
+http://40.160.24.55/TEEN_NICK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/1280px-Nicktoons_Logo_2023.svg.png" group-title="Kids",NickToons
 http://customcloud.tv/live/HoseaStephen/4273869501/203.m3u8
