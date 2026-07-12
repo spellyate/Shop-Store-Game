@@ -65,7 +65,10 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce44/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTQ0OjE3ODM4ODI3MTcyMjg6Y2RubGl2ZXR2LnR2OmE2OGRhYjJhNzFmNGRiM2MuZjM4YTU2ODE4NWI5OTBkMGE2YTUzNmQxMjM1YmFhMGE4ZjA3ZWJiMWRhZTA4OTgxY2RlYTRjOGY4Mzg4YjJmMQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/1280px-MTV_Classic_US.svg.png",MTV Classic
-https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+http://206.212.244.63/117/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1280px-MTV_Live.svg.png",MTV Live
+http://40.160.24.53/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",AXS TV
 http://40.160.24.52/AXS_TV/index.m3u8
