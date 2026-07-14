@@ -62,7 +62,7 @@ http://stream.cammonitorplus.net/1812/index.m3u8
 http://161.129.178.5/food/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",Vice
-http://23.237.104.106:8080/USA_VICETV/index.m3u8
+https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
