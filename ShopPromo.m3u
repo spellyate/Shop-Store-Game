@@ -64,8 +64,8 @@ http://161.129.178.5/food/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",Vice
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN2
-https://cdnlivetv.tv/secure/api/v1/6a288d2b81d8192bb76cce44/playlist.m3u8?token=NmEyODhkMmI4MWQ4MTkyYmI3NmNjZTQ0OjE3ODM4ODI3MTcyMjg6Y2RubGl2ZXR2LnR2OmE2OGRhYjJhNzFmNGRiM2MuZjM4YTU2ODE4NWI5OTBkMGE2YTUzNmQxMjM1YmFhMGE4ZjA3ZWJiMWRhZTA4OTgxY2RlYTRjOGY4Mzg4YjJmMQ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
+https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/1280px-MTV_Classic_US.svg.png",MTV Classic
 http://206.212.244.63/117/index.m3u8
