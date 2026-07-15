@@ -11,7 +11,7 @@ http://104.129.12.146:18080/stream/nickmusic.ts
 http://40.160.24.55/TEEN_NICK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/3840px-2024_Disney_Channel_text_logo.svg.png" group-title="Kids",Disney Channel
-http://40.160.24.52/Disney_Channel_HD/index.m3u8
+https://247v2.xyzstreams.st/?stream_id=disneychannel&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD
 https://247v2.xyzstreams.st/?stream_id=disneyxd&pro_id=sling&index.m3u8
