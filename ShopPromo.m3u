@@ -14,7 +14,7 @@ http://40.160.24.55/TEEN_NICK/index.m3u8
 https://247v2.xyzstreams.st/?stream_id=disneychannel&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD
-https://247v2.xyzstreams.st/?stream_id=disneyxd&pro_id=sling&index.m3u8
+http://tvsen5.aynascope.net/disneyxd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.logos.corusent.com/wp-content/uploads/2018/08/13140426/YTV_Web_LOGO_Teal_RGB.png" group-title="Kids",YTV
 http://38.22.17.91:14584/
