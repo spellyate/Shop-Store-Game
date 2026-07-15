@@ -71,7 +71,7 @@ http://206.212.244.63/170/index.m3u8
 https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/1280px-MTV_Classic_US.svg.png",MTV Classic
-http://206.212.244.63/117/index.m3u8
+http://40.160.24.53/MTV_CLASSIC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/MTV_Live.svg/1280px-MTV_Live.svg.png",MTV Live
 http://40.160.24.53/MTV_LIVE/index.m3u8
