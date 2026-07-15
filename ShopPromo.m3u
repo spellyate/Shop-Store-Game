@@ -47,7 +47,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 http://stream.cammonitorplus.net/1797/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX Austin
-http://stream.cammonitorplus.net/1833/index.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODQxNTY2MzY5NTY6Y2RubGl2ZXR2LnR2OjY3YjE0NDk1ODYzMjFlYjEuOTRlYTE4Yjg1YWM0MDQ2NWIxNWIyNTY1MjhhM2U1ZTAxM2RiZDc5MjcwYzhmMzU0YjJmYWIxOTEyZmFlNDExMQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://41.223.30.230/AMC/index.m3u8
