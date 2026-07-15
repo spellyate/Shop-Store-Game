@@ -87,3 +87,6 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png",NFL Network
 http://206.212.244.63/196/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/OPLiveSeason2Logo.png/1280px-OPLiveSeason2Logo.png",On Patrol Live
+https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d80ed5db43551137a2ff86.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Web&X-Plex-Token=uP84rzLkwVbzNfmrk1ys&X-Plex-Client-Identifier=1cbd220d-73da-489d-9644-ac715569e958
