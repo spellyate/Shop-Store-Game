@@ -23,7 +23,7 @@ http://38.22.17.91:14584/
 http://206.212.244.63/646/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN
-https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+https://edge.cdnlivetv.ru/secure/api/v1/us-cnn/playlist.m3u8?token=ca03904094d2049ebbb46a31d8ebbb992f03b3aee5345bba0e420bbca3f28ef5.1779784310.706e284acbe00d2bc688ac49cd4cf888.efa51fd44c4d019c645de8458d1423b4.096118a48bf489e2d225e51562780d19&signature=d9dfda688ae64bc3ddd9cb130381c428899247b071d7d03fa02c1370ff1e9a79
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Sports",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
