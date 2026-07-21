@@ -20,7 +20,7 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://38.22.17.91:14584/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
-https://247v2.xyzstreams.st/?stream_id=cartoonnetworkadultswim&pro_id=sling&index.m3u8
+http://206.212.244.63/646/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
@@ -62,10 +62,10 @@ http://stream.cammonitorplus.net/1812/index.m3u8
 https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",ViceTV
-http://206.212.244.63/170/index.m3u8
+http://40.160.24.55/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
-https://247v2.xyzstreams.st/?stream_id=espn&pro_id=sling&index.m3u8
+https://gpuserver3.tier1streams.com/ESPN_U/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/1280px-MTV_Classic_US.svg.png",MTV Classic
 http://40.160.24.53/MTV_CLASSIC/index.m3u8
@@ -90,3 +90,6 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d80ed5db43
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/All_Elite_Wrestling_logo_2024.svg/1280px-All_Elite_Wrestling_logo_2024.svg.png",WatchAEW
 https://amg16221-amg16221c1-amgplt0795.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg16221-amg16221c1-amgplt0795/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",MS NOW
+http://40.160.24.53/MSNBC/index.m3u8
