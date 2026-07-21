@@ -50,7 +50,7 @@ http://stream.cammonitorplus.net/1797/index.m3u8
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODQxNTY2MzY5NTY6Y2RubGl2ZXR2LnR2OjY3YjE0NDk1ODYzMjFlYjEuOTRlYTE4Yjg1YWM0MDQ2NWIxNWIyNTY1MjhhM2U1ZTAxM2RiZDc5MjcwYzhmMzU0YjJmYWIxOTEyZmFlNDExMQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
-http://41.223.30.230/AMC/index.m3u8
+http://4.30.180.36:8420/amc/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png",FS1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
