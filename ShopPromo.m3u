@@ -44,7 +44,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_356
 https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_3564000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/1280px-ABC-2021-LOGO.svg.png" group-title="Entertainment",ABC NY
-http://stream.cammonitorplus.net/1797/index.m3u8
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX Austin
 http://40.160.24.56/FOX_SD/index.m3u8
@@ -53,10 +53,10 @@ http://40.160.24.56/FOX_SD/index.m3u8
 http://4.30.180.36:8420/amc/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/2015_Fox_Sports_1_logo.svg/330px-2015_Fox_Sports_1_logo.svg.png",FS1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png",NBC
-http://stream.cammonitorplus.net/1812/index.m3u8
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",Vice
 https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
@@ -65,7 +65,7 @@ https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
 http://40.160.24.55/VICELAND/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
-http://40.160.24.52/ESPN_HD/index.m3u8
+http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MTV_Classic_US.svg/1280px-MTV_Classic_US.svg.png",MTV Classic
 http://40.160.24.58/MTV_CLASSIC_SD/index.m3u8
@@ -95,4 +95,4 @@ https://amg16221-amg16221c1-amgplt0795.playout.now3.amagi.tv/ts-us-e2-n2/playlis
 http://40.160.24.53/MSNBC/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1280px-Reelz.svg.png",Reelz
-http://40.160.24.55/REELZ/index.m3u8
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
