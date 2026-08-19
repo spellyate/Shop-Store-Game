@@ -11,7 +11,7 @@ http://104.129.12.146:18080/stream/nickmusic.ts
 http://40.160.24.55/TEEN_NICK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/2024_Disney_Channel_text_logo.svg/3840px-2024_Disney_Channel_text_logo.svg.png" group-title="Kids",Disney Channel
-http://40.160.24.52/Disney_Channel_HD/index.m3u8
+http://212.5.144.156/disney/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/2015_Disney_XD_logo.svg/1280px-2015_Disney_XD_logo.svg.png" group-title="Kids",Disney XD
 http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
@@ -47,7 +47,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX Austin
-http://40.160.24.56/FOX_SD/index.m3u8
+https://edge.cdnlivetv.ru/secure/api/v1/us-fox/playlist.m3u8?token=096951f4f0b0bd2d133e6d3f6b787c10ac36a6c90b58a0adc9380439951890f3.1779784315.215e39eb900bfcbdd2380da4db2fe189.a4dd394ece4690653c64d8a5e3edb9ca.d46e1d1404781e2ebfc79ee56ff9ad8a&signature=a7d99ec6bd7588157de20a9bc3d5357a9ff50f1a1c1e35b9f71f1068c23f121a
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://4.30.180.36:8420/amc/index.m3u8?token=test
@@ -62,7 +62,7 @@ http://23.237.104.106:8080/USA_VICETV/index.m3u8
 https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/1280px-Vice_TV_logo.svg.png",ViceTV
-http://40.160.24.55/VICELAND/index.m3u8
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-U-HD/index.m3u8
@@ -74,7 +74,7 @@ http://40.160.24.58/MTV_CLASSIC_SD/index.m3u8
 http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/AXS_TV_logo.svg/960px-AXS_TV_logo.svg.png",AXS TV
-http://40.160.24.52/AXS_TV/index.m3u8
+http://23.239.31.26:8989/axstv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1280px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8 
