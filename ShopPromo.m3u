@@ -20,10 +20,10 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://38.22.17.91:14584/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
-http://204.52.191.254/play/live.php?mac=00:1A:79:E6:15:73&stream=162233&extension=ts
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN
-http://179.60.51.134:8888/CNN/index.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3ODkzMTUwOTM5MzU6Y2RubGl2ZXR2LnR2OmE1ZjVlNGFkYmI0OTRkOGQuYzA0M2E0MWQ0ZGViMWRlMTFiYWUyYjVkMDg5YWJhNjA4MGM1MWNmZjFhNGQzZjYzNjZmODI3MzQxYzUyNDM4NQ
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/960px-TNT_Logo_2016.svg.png" group-title="Sports",TNT East
 https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
