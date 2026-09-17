@@ -20,7 +20,7 @@ http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
 http://38.22.17.91:14584/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network
-https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8?e=1784102579&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=9563d33da06516fd262e9156a110a8d8
+http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/CNN_Logo_%282014%29.svg/1280px-CNN_Logo_%282014%29.svg.png" group-title="News",CNN
 https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb490/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiNDkwOjE3ODkzMTUwOTM5MzU6Y2RubGl2ZXR2LnR2OmE1ZjVlNGFkYmI0OTRkOGQuYzA0M2E0MWQ0ZGViMWRlMTFiYWUyYjVkMDg5YWJhNjA4MGM1MWNmZjFhNGQzZjYzNjZmODI3MzQxYzUyNDM4NQ
@@ -47,7 +47,7 @@ https://turnerlive.warnermediacdn.com/hls/live/2023174/tbswest/slate/VIDEO_0_356
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/1280px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="Entertainment",FOX Austin
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb38e/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzhlOjE3ODkzMjg2NDc3OTk6Y2RubGl2ZXR2LnR2OmJjNTJmMzk2MTRmMmU1ZDcuYjU5OGZlNWFiMzM3Mzk4ZGJhYjQxYmNhNjU2ZGY5MmZkZjMyMzc1MDNiZWZjODQ5MWU3YTI5Mzc3ZjQ2YWU5Zg
+https://live-streaming-mcdn.api.graylive.quickplay.com/kptv-xos1-input-1/kptv-xos1-input-1.isml/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/1280px-AMC_logo_2019.svg.png" group-title="Entertainment",AMC
 http://4.30.180.36:8420/amc/index.m3u8?token=test
@@ -95,10 +95,10 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d80ed5db43
 https://amg16221-amg16221c1-amgplt0795.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg16221-amg16221c1-amgplt0795/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",MS NOW
-https://tvsen6.aynaott.com/msnbc/index.m3u8
+http://4.30.180.36:8420/msnbc/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1280px-CBS_logo_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",CBS
-https://tvsen3.aynaott.com/34fJSjZP/index.m3u8
+http://best.happytv.xyz:2082/live/JThibodeau0923/gcEyG7W3/2193473.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1280px-Reelz.svg.png",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
