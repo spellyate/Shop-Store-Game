@@ -103,5 +103,8 @@ http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",Discovery
 https://live-th10.myjktv.com/watch/live.m3u8?video=discovery_540&sid=MMRDBICzkAZmBTDYPGvofmP3KM7rNouvgDL2ofkK&secret=819db6a6233758d48755a6e3505fa934&time=1771650286
 
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/en/thumb/5/55/MeTV_Logo.svg/1280px-MeTV_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",MeTV
+http://4.30.180.36:8420/metv/index.m3u8?token=test
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1280px-Reelz.svg.png",Reelz
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
