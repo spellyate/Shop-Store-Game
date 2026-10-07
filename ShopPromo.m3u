@@ -65,7 +65,7 @@ https://d1ocru52bkg5e9.cloudfront.net/VICE.m3u8
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN U
-http://95.143.42.59:1234/stream/fubochannels/espn/master.m3u8
+https://cdnlivetv.tv/secure/api/v1/6a288d2881d8192bb76cb5a2/playlist.m3u8?token=NmEyODhkMjg4MWQ4MTkyYmI3NmNiNWEyOjE3OTEzMzQ0MDc4NTk6Y2RubGl2ZXR2LnR2OjAxZjNjNTQzNWFmMjExMmYuYzBiNDE0OTM5YWVhYmNlYjcxNjcxYmYzMDkzOGYzYTUyMmMxODdkMGM1MDNhMThlMThlY2QwYTE5MDAyN2UyOA
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png",ESPN 
 https://tvsen5.aynaott.com/espn/index.m3u8?e=1784102528&u=ee5437a7-c16b-4700-b317-a41b77d5cba9&token=d701f3665e12964090ddd656a9a89c29
@@ -83,7 +83,7 @@ http://23.239.31.26:8989/axstv/index.m3u8
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png",USA Network
-http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+http://200.32.231.178/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png",NFL
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=&usprivacy=&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=3c39201f-e2c1-4a95-a641-81464753b579&tmsid=121705&palnonce=&rdid=3c39201f-e2c1-4a95-a641-81464753b579&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=
