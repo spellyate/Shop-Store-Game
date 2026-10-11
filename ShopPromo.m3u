@@ -83,7 +83,7 @@ http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71379
 https://twcprod-live.twc-tv.com/v1/manifest/b4d4d63a49309cc5140171fb2e92485c31be1e9e/DSP_6228e4760505741a116f1ba2_twcprod-live/6bf09ce5-366b-463c-b67e-c4b799f73c3f/4.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/USA_Network_2020.svg/1280px-USA_Network_2020.svg.png",USA Network
-http://200.32.231.178/USA_NETWORK/index.m3u8
+http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71345
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1280px-NFL_Network_logo.svg.png",NFL
 https://c300.play.lura.app/play/v1/live/ZHx8AbT0xVvm1el0epd7vw/master.m3u8?ts=1668459044045&app=Mp8DA1vKVAoO4yHJ0QFZ3w&exp=2299179044&auth=8HJTwR6prnzFjGE2Ki_8pfvwxMRvWtSwRm3R54TN3_w&PlatformChild=&usprivacy=&coppa=0&autoplay=auto&videomute=0&encoder=DC1-XUMO&fwDid=3c39201f-e2c1-4a95-a641-81464753b579&tmsid=121705&palnonce=&rdid=3c39201f-e2c1-4a95-a641-81464753b579&islat=0&atts=&attmas=&idfv=&screenw=1920&screenh=1080&title=
@@ -95,7 +95,7 @@ https://epg.provider.plex.tv/library/parts/6a1610bebdf296985fd95603-69d80ed5db43
 https://amg16221-amg16221c1-amgplt0795.playout.now3.amagi.tv/ts-us-e2-n2/playlist/amg16221-amg16221c1-amgplt0795/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/MS_NOW_logo.svg/1280px-MS_NOW_logo.svg.png",MS NOW
-http://4.30.180.36:8420/msnbc/index.m3u8?token=test
+http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71491
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1280px-CBS_logo_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",CBS
 http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71672
@@ -111,3 +111,6 @@ https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1280px-WWE_official_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",WWE Superslam
 http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/711406
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/960px-History_%282021%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",History Channel
+http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71435
