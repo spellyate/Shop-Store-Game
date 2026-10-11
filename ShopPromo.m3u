@@ -108,3 +108,6 @@ http://4.30.180.36:8420/metv/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Reelz.svg/1280px-Reelz.svg.png",Reelz
 https://cdn.katapy.io/cache/stream/reelztv/reelztv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/1280px-WWE_official_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",WWE Superslam
+http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/711406
