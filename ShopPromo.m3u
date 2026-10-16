@@ -98,7 +98,7 @@ https://amg16221-amg16221c1-amgplt0795.playout.now3.amagi.tv/ts-us-e2-n2/playlis
 https://tvsen6.aynaott.com/msnbc/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1280px-CBS_logo_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail",CBS HD
-https://cdnlivetv.tv/secure/api/v1/6a288d2781d8192bb76cb375/playlist.m3u8?token=NmEyODhkMjc4MWQ4MTkyYmI3NmNiMzc1OjE3OTE3NDA2MDQ0NDI6Y2RubGl2ZXR2LnR2OjkzYTBjMWFmY2VjZDNhMGEuN2EzNjIzMzgwZjlmY2E2ZGNjMzkxZDVlZjc2NzFmNjhmYzQwZjBlZjM2NzQ2Mjg0NjkzNmYzNTY1OGEwOGRkNw
+http://4.30.180.36:8420/cbs/index.m3u8?token=test
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1280px-Discovery_Channel_-_Logo_2019.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",Discovery HD
 http://star44.xyz:80/17PU3VQPY7QUU2U/e6N2eVk7wa/71440
