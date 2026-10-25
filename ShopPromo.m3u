@@ -14,7 +14,7 @@ http://tvsen7.aynascope.net/teennick/index.m3u8
 http://212.5.144.156/disney/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/2009_Disney_XD_HD_logo.svg/1280px-2009_Disney_XD_HD_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" group-title="Kids",DXD HD
-http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+http://89.187.179.148:826/1368/gXwiagaXda/1672
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Cartoon_Network_HD_logo_%282007-2009%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" group-title="Kids",CN HD
 https://turnerlive.warnermediacdn.com/hls/live/2023160/tooneast/noslate/VIDEO_1_5128000.m3u8
